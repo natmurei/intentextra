@@ -24,15 +24,15 @@
         android:id="@+id/tvName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
-        android:hint="Name"/>
-    <!--android:text="Name"/>-->
+        android:layout_marginTop="60dp"/>
+
+
     <TextView
         android:id="@+id/tvAge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
-        android:text="Age"/>
+        android:layout_marginTop="100dp"/>
+
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
